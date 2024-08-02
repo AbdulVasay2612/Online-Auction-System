@@ -4,7 +4,7 @@ const homelist = (req, res) => {
     title: 'Online Auction System',
     pageHeader: {
     title: 'Online Auction System',
-    strapline: '_____Hassle Free Access To Products!_____'
+    strapline: '---Hassle Free Access To Products!---'
     },
     locations: [{
     name: 'Sports Auction Facility',
