@@ -6,8 +6,8 @@ legend {
 font-family: 'Lobster', cursive;
 }
 .navbar {
-background-color: #ad1d28;
-border-color: #911821;
+background-color: #000000;
+border-color: #da1c1c;
 }
 .navbar-light .navbar-brand {
 font-family: 'Lobster', cursive;
@@ -83,5 +83,5 @@ h4 small {
   body {
   font-family: "Cabin", Arial, sans-serif;
   color: #fff;
-  background-color: #19a884;
+  background-color: #f31010f1;
   }
