@@ -8,7 +8,7 @@ const homelist = (req, res) => {
     },
     locations: [{
     name: 'Sports Auction Facility',
-    address: 'Any Internet Facility Near You',
+    address: 'Any Internet Near You',
     rating: 3,
     facilities: [ 'Products', 'Premium wifi'],
     distance: '100m'
