@@ -7,7 +7,7 @@ const homelist = (req, res) => {
     strapline: '---Hassle Free Access To Products!---'
     },
     locations: [{
-    name: 'Sports Auction Facility',
+    name: 'Auction Facility',
     address: 'Any Internet Near You',
     rating: 3,
     facilities: [ 'Products', 'Premium wifi'],
